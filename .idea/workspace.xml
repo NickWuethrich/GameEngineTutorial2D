@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0e32a0a-f358-4f65-b0f8-d97b8b1df5b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GameWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KeyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNewGame/StartingClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="c0e32a0a-f358-4f65-b0f8-d97b8b1df5b0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +33,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/nicka/GitHub/GameEngineTutorial2D",
+    "last_opened_file_path": "C:/Users/nicka/OneDrive/Documents/GitHub/2DGAMEV2",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -62,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668837073186</updated>
     </task>
+    <task id="LOCAL-00001" summary="test Commit">
+      <created>1669305107220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669305107221</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +74,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test Commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
